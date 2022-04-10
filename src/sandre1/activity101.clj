@@ -14,4 +14,5 @@ returns the estimated level of CO2 ppm for that year."
     estimate))
 (comment 
   (co2-estimate 2020)
-  (doc co2-estimate))
+  (doc co2-estimate)
+  (< 1 2))
