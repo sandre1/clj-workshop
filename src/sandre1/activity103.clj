@@ -25,6 +25,6 @@
 
 (comment 
   (meditate 10 "testing1124")
-  (meditate2 2 "blah")
+  (meditate2 11 "blah")
   (doc clojure.string/capitalize)
   )
