@@ -27,6 +27,7 @@
         dec (decode code)]
     dec)
   (encode "If you want to keep a secret, you must also hide it from yourself.")
+  (decode *1)
   (encode-letter "aasd" 4)
   (int (first (char-array "b")))
   (+ 2 2)
